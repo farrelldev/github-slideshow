@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Snugglepuss' slide!"
 ---
-This is Snugglepuss' file
+This is a edit made in Snugglepuss' file
 Use the left arrow to go back!
